@@ -1,0 +1,5 @@
+archivesBaseName = 'module'
+
+dependencies {
+    implementation("org.springframework:spring-context")
+}
